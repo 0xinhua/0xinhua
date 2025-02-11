@@ -2,9 +2,7 @@
 
 Kevin's Here:
 
-- 🔭 Working On
-
-Building AI-powered tools for creators:
+- 🔭 Working On AI-powered tools for people:
 
 - [TwitterShots.com](TwitterShots.com) Turn your Tweet Screenshot into stunning card.
 - [ReResume.ai](ReResume.ai) AI helps you land your dream job.
