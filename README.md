@@ -4,8 +4,8 @@ Kevin's Here:
 
 - 🔭 Working On AI-powered tools for people:
 
-  - [TwitterShots.com](https://TwitterShots.com) Turn your Tweet Screenshot into stunning card
-  - [ReResume.ai](https://ReResume.ai) AI helps you land your dream job
+  - [TwitterShots.com](TwitterShots.com) Turn your Tweet Screenshot into stunning card
+  - [ReResume.ai](ReResume.ai) AI helps you land your dream job
 
 - 🌱 Learning
 AI agent workflows × no-code growth hacking
